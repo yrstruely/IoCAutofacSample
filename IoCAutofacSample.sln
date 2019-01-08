@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IoCAutofacSample", "IoCAutofacSample\IoCAutofacSample.csproj", "{CD4C17D8-6B93-458B-BB70-DAD914464BA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateApp", "DateApp\DateApp.csproj", "{AD743390-F9F4-4574-AF1A-A0B34A69E75A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CD4C17D8-6B93-458B-BB70-DAD914464BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD4C17D8-6B93-458B-BB70-DAD914464BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD4C17D8-6B93-458B-BB70-DAD914464BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD743390-F9F4-4574-AF1A-A0B34A69E75A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD743390-F9F4-4574-AF1A-A0B34A69E75A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD743390-F9F4-4574-AF1A-A0B34A69E75A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD743390-F9F4-4574-AF1A-A0B34A69E75A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
