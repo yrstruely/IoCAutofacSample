@@ -1,4 +1,4 @@
-# IoCAutofac
+# IoCAutofacSample
 
 A sample console app with tests to demonstrate the use of the Inversion of Control (IoC) design pattern using Autofac.
 
